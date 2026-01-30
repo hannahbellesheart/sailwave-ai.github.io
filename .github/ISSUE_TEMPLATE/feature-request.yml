@@ -1,0 +1,48 @@
+name: Feature Request
+description: Propose a new feature or capability
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What do you want to build?
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Business Value
+      description: How does this help SMEs or improve our operations?
+    validations:
+      required: true
+  - type: dropdown
+    id: agent
+    attributes:
+      label: Assigned Agent
+      options:
+        - Coordinator
+        - Site Builder
+        - Content Writer
+        - Docs Author
+        - Slide Designer
+        - DevOps
+        - Rust Engineer
+        - Brand/Design
+        - QA/Reviewer
+        - Data Engineer
+        - Security/Compliance
+    validations:
+      required: false
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - P0 - Critical
+        - P1 - High
+        - P2 - Medium
+        - P3 - Low
+    validations:
+      required: true
