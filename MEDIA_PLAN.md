@@ -8,7 +8,8 @@
 ## Page-by-Page Plan
 
 ### Home (Hero + Overview)
-- **Hero image:** `static/images/hero/hero-wave.svg`
+- **Hero background:** `static/images/hero/hero-background.jpg`
+- **Hero foreground image:** `static/images/hero/hero-wave.svg`
 - **Purpose:** Visualise AI-powered dashboards and outcomes.
 - **Placement:** Home hero section under CTA buttons.
 
@@ -21,6 +22,9 @@
 - **AI Prospecting:** `static/images/services/ai-prospecting-visual.svg`
 - **Pipeline Intelligence:** `static/images/services/pipeline-intelligence-visual.svg`
 - **Sales Automation:** `static/images/services/sales-automation-visual.svg`
+- **CRM Automation Consulting:** `static/images/services/crm-automation-consulting.jpg`
+- **Data Integration Consulting:** `static/images/services/data-integration-consulting.jpg`
+- **CX Consulting:** `static/images/services/cx-consulting.jpg`
 - **Purpose:** Provide contextual visuals that anchor each offering.
 - **Placement:** First block in each service page.
 
@@ -42,3 +46,10 @@
 ## Optimization
 - SVGs are lightweight and theme-matched.
 - Video is hosted externally and loaded with `preload="metadata"`.
+
+## Source Notes
+- Photo assets are sourced from Unsplash (free license) and downloaded at 1600px width.
+  - Hero background: https://unsplash.com/photos/V2fDh-_1SMw
+  - CRM automation consulting: https://unsplash.com/photos/yd_RKGH_RH4
+  - Data integration consulting: https://unsplash.com/photos/WbLJd4M88I8
+  - CX consulting: https://unsplash.com/photos/qoLY6vRnJsE

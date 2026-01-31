@@ -68,6 +68,12 @@
   margin-bottom: $space-5;
   font-size: 1.75rem;
   color: $color-primary;
+
+  img {
+    width: 32px;
+    height: 32px;
+    display: block;
+  }
 }
 
 .service-card__title {
