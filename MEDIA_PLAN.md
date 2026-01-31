@@ -31,6 +31,12 @@
 - **Banner image:** (removed)
 - **Purpose:** Minimal header for readability.
 
+### Use Cases
+- **Healthcare:** `static/images/use-cases/healthcare.jpg`
+- **Legal:** `static/images/use-cases/legal.jpg`
+- **Hospitality:** `static/images/use-cases/hospitality.jpg`
+- **Fitness:** `static/images/use-cases/fitness.jpg`
+
 ## Accessibility
 - Every image includes descriptive `alt` text and a caption.
 - Video includes fallback text and uses a descriptive caption.
@@ -44,3 +50,7 @@
   - CRM automation consulting: https://unsplash.com/photos/yd_RKGH_RH4
   - Data integration consulting: https://unsplash.com/photos/WbLJd4M88I8
   - CX consulting: https://unsplash.com/photos/qoLY6vRnJsE
+  - Healthcare: https://unsplash.com/photos/L8tWZT4CcVQ
+  - Legal: https://unsplash.com/photos/VW5VjskNXZ8
+  - Hospitality: https://unsplash.com/photos/poI7DelFiVA
+  - Fitness: https://unsplash.com/photos/0sa8D74iodI

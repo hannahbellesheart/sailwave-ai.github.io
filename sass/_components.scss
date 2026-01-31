@@ -433,6 +433,21 @@
   padding: $space-6;
 }
 
+.use-case-card__image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: $border-radius-lg;
+  border: 1px solid rgba($color-white, 0.2);
+  box-shadow: $shadow-sm;
+}
+
+.use-case-card__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .use-case-card__badge {
   align-self: flex-start;
   padding: $space-1 $space-3;
