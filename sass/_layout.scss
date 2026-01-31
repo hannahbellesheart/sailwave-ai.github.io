@@ -135,6 +135,20 @@
 
 .header--on-hero {
   border-bottom-color: rgba($color-white, 0.12);
+  position: relative;
+}
+
+.header--on-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba($color-dark, 0.75) 0%,
+    rgba($color-dark, 0.25) 60%,
+    rgba($color-dark, 0) 100%
+  );
+  z-index: 0;
 }
 
 .header--light {
@@ -146,6 +160,8 @@
   align-items: center;
   justify-content: space-between;
   height: 100%;
+  position: relative;
+  z-index: 1;
 }
 
 .header__logo {
