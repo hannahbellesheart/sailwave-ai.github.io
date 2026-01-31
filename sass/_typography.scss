@@ -2,6 +2,14 @@
 // Typography — Headings, Body Text, Links, Lists, Code
 // ==========================================================================
 
+@font-face {
+  font-family: 'Sprig Sans';
+  src: url('/fonts/FAIRESprigSansVariable.woff2') format('woff2');
+  font-weight: 300 800;
+  font-style: normal;
+  font-display: swap;
+}
+
 // --------------------------------------------------------------------------
 // Headings
 // --------------------------------------------------------------------------
