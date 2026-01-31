@@ -52,7 +52,7 @@
     {# ================================================================ #}
     {# Header                                                           #}
     {# ================================================================ #}
-    <header class="header" data-header>
+    <header class="header">
       <div class="container header__inner">
         <a href="{{ config.base_url }}" class="header__logo">
           <span class="header__logo-icon">
@@ -125,15 +125,5 @@
     </footer>
 
   </div>
-  <script>
-    const header = document.querySelector('[data-header]');
-    if (header) {
-      const updateHeader = () => {
-        header.classList.toggle('header--scrolled', window.scrollY > 8);
-      };
-      updateHeader();
-      window.addEventListener('scroll', updateHeader, { passive: true });
-    }
-  </script>
 </body>
 </html>
