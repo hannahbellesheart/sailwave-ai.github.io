@@ -8,11 +8,6 @@ weight = 1
 icon = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>'
 +++
 
-<figure class="media-figure">
-  <img src="/images/services/ai-prospecting-visual.svg" alt="AI prospecting signal map highlighting priority accounts">
-  <figcaption>Surface high-fit prospects and focus outreach where it matters most.</figcaption>
-</figure>
-
 ## Find the Right Leads, Faster
 
 Most SMEs waste hours sifting through contact lists, LinkedIn profiles, and trade directories hoping to find buyers who actually need what they sell. AI Prospecting changes that. We build machine learning models trained on your existing customer data to identify, score, and prioritise the prospects most likely to convert.

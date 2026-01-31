@@ -4,19 +4,6 @@ description = "Sailwave helps SMEs ride the AI wave by streamlining sales and cu
 template = "about.html"
 +++
 
-<figure class="media-figure media-figure--wide">
-  <img src="/images/sections/about-illustration.svg" alt="Salewave teams aligned around a delivery roadmap">
-  <figcaption>We build systems that keep every sales motion aligned and measurable.</figcaption>
-</figure>
-
-<figure class="media-figure media-figure--video">
-  <video controls preload="metadata" poster="/images/sections/about-illustration.svg">
-    <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption>Short demo reel: a calm, looping visual for brand storytelling.</figcaption>
-</figure>
-
 ## Who We Are
 
 Sailwave is a technology company built to help small and mid-size businesses compete in the age of AI. We design and deliver intelligent sales operations — from prospecting and pipeline management to full CRM automation — so that growing teams can focus on what matters: building real relationships with their customers.

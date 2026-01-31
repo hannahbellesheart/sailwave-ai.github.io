@@ -8,11 +8,6 @@ weight = 2
 icon = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>'
 +++
 
-<figure class="media-figure">
-  <img src="/images/services/pipeline-intelligence-visual.svg" alt="Pipeline forecast chart with risk and opportunity markers">
-  <figcaption>Spot risk early, track momentum, and forecast with confidence.</figcaption>
-</figure>
-
 ## See Your Pipeline Clearly
 
 Sales pipelines lie. Deals stall silently, forecasts drift from reality, and by the time a risk becomes visible it is often too late to act. Pipeline Intelligence gives you a real-time, data-driven view of your pipeline health — so you can intervene early, forecast accurately, and close more consistently.

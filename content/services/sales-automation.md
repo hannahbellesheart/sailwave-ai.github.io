@@ -8,11 +8,6 @@ weight = 3
 icon = '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>'
 +++
 
-<figure class="media-figure">
-  <img src="/images/services/sales-automation-visual.svg" alt="Automation workflow nodes connected by triggers">
-  <figcaption>Automate follow-ups, handoffs, and reporting with adaptive workflows.</figcaption>
-</figure>
-
 ## Stop Selling Around Your Tools
 
 Your sales team did not sign up to update CRM fields, write follow-up reminders, or compile weekly reports. Yet most SME sales reps spend more time on admin than on actual selling. Sales Automation reclaims that time by handling the repetitive work intelligently — so your team can focus on conversations that close deals.
