@@ -52,7 +52,7 @@
     {# ================================================================ #}
     {# Header                                                           #}
     {# ================================================================ #}
-    {% set is_home = current_path == "/" %}
+    {% set is_home = (current_path | default(value="")) == "/" %}
     <header class="header{% if is_home %} header--on-hero{% else %} header--light{% endif %}">
       <div class="container header__inner">
         <a href="{{ config.base_url }}" class="header__logo">
